@@ -1,25 +1,49 @@
 # HR Analytics Dashboard (Power BI)
 
-=> Description
-This project contains an interactive HR dashboard created using Power BI for analyzing employee attrition.
+## 🔍 Key Insights
 
-=> Key Features
-- Total employee count
-- Attrition and attrition rate
-- Average salary and age
-- Attrition by age group, job role, education and salary
-- Gender-based analysis
-- Department-wise filtering using slicers
+Analysis of 1,470 employees revealed:
 
-=> Tools Used
-- Power BI
+| Insight | Finding |
+|---------|---------|
+| **Age 26-35** | 116 left - 49% of all attrition |
+| **Lowest paid** | 163 employees earning <5K left (69% of attrition) |
+| **Laboratory Technicians** | 62 left - highest by role |
+| **Sales Executive** | 57 left - second highest |
+
+### Top 3 Problem Areas:
+1. **Age group 26-35** accounts for nearly half of all departures
+2. **Low salary bracket** (<5K) drives 69% of attrition
+3. **Lab Technicians + Sales Executives** = 50% of role-based attrition
+
+## 📊 Dashboard Features
+
+- Total employee count: 1,470
+- Attrition: 237 (16.1%)
+- Average age: 37 years
+- Average salary: 6.5K
+- Average years at company: 7.0
+
+### Interactive Filters
+- Attrition by: Age Group | Job Role | Education | Salary | Gender
+- Department-wise slicing
+
+## 🛠️ Tools Used
+
+- Power BI (DAX, Power Query)
 - Excel
 
-=> Purpose
-The HR Analytics Dashboard helps HR managers and business leaders analyze employee attrition trends and patterns. It addresses the challenges of manual tracking and fragmented reporting by providing a comprehensive, interactive view of attrition across departments, job roles, age groups, education, salary, and gender.
+## 🎯 Business Value
 
-With this dashboard, HR teams can:
-- Identify departments and roles with high attrition
-- Understand demographic patterns influencing employee turnover
-- Make data-driven decisions to improve retention and workforce planning
-- Save time by consolidating multiple reports into a single, easy-to-use interface
+This dashboard helps HR leaders:
+- Identify high-attrition departments and roles BEFORE problems escalate
+- Target retention efforts by age, salary, and job role
+- Replace manual tracking with data-driven decisions
+
+## 📸 Dashboard Preview
+
+
+
+## 🔗 Links
+
+- [GitHub Repository](your-repo-link)
