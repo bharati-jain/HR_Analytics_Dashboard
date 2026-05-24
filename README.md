@@ -41,9 +41,9 @@ This dashboard helps HR leaders:
 - Replace manual tracking with data-driven decisions
 
 ## 📸 Dashboard Preview
-
+Screenshot(dashboard.png)
 
 
 ## 🔗 Links
 
-- [GitHub Repository](your-repo-link)
+- [GitHub Repository](https://github.com/bharati-jain/HR_Analytics_Dashboard.git)
