@@ -41,7 +41,7 @@ This dashboard helps HR leaders:
 - Replace manual tracking with data-driven decisions
 
 ## 📸 Dashboard Preview
-Screenshot(dashboard.png)
+![HR Dashboard Insights](dashboard.png)
 
 
 ## 🔗 Links
